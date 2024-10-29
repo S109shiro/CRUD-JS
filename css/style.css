@@ -1,0 +1,43 @@
+.bt {
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    text-transform: uppercase;
+}
+
+.bt:hover {
+    transition: 0.5s;
+    font-weight: bold;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3)
+}
+
+.add:hover {
+    background-color: blue;
+    color: white;
+}
+
+.delete:hover {
+    background-color: red;
+    color: white;
+}
+
+.modificar:hover{
+    background-color: green;
+    color: white;
+}
+
+.item {
+    text-transform: uppercase;
+}
+
+.titulo {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.id {
+    font-weight: bold;
+}
