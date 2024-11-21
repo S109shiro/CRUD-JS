@@ -6,4 +6,4 @@ function(){
 }
   ````
 
-[Hola] (https://www.canva.com/es_es/plantillas/?category=tADUu42EfP8)
+(https://www.canva.com/es_es/plantillas/?category=tADUu42EfP8) [Hola] 
