@@ -6,4 +6,4 @@ function(){
 }
   ````
 
-(https://www.canva.com/es_es/plantillas/?category=tADUu42EfP8) [Hola] 
+This site was built using [GitHub Pages](https://pages.github.com/).
